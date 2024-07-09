@@ -4,8 +4,8 @@
 
 The **Dext to Capium Converter** is a tool created to transform financial data from the Dext format to the Capium format. This tool was developed for a specific client to automate the process of rearranging Excel data columns.
 
-![Job Description]('ScreenShots\Screenshot_1.png')
-![ETL Request]('ScreenShots\Screenshot_2.png')
+![Job Description]('Screenshot_1.png')
+![ETL Request]('Screenshot_2.png')
 
 ## Features
 
@@ -31,4 +31,4 @@ The **Dext to Capium Converter** is a tool created to transform financial data f
 
     Look for the new Excel file named `converted_output.xlsx` in the same folder as your input file.
 
-    ![Finished Project]('ScreenShots/Screenshot_3.png')
+    ![Finished Project]('Screenshot_3.png')
